@@ -1,0 +1,2 @@
+(wtf) = "minecraft"
+print (wtf)

@@ -1,0 +1,4 @@
+saludo = 'hola'
+print(saludo)
+nombre = input('cual es tu nombre')
+print(f'que nombre más feo {nombre}')
